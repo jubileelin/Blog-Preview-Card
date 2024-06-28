@@ -8,15 +8,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,12 +26,27 @@ Users should be able to:
 
 ![](./blog-preview-card-screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
+
+- Solution URL ()
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+There was not much that I struggled with in this challenge. I was able to apply the knowledge I had gained from last challenge and easily complete this one within a reasonable time frame. 
+
+### Continued development
+
+I would like to be able to more effectively use proper HTML semantics so that my work can properly be translated into a team or collaborative setting. 
+
+### Useful resources
+
+- [Video Resource](https://youtu.be/G3e-cpL7ofc?si=k_37wGK1nX8Mj4BM) - This is how I learned the basics of HTML and CSS. I hope I can continue to expand on this knowledge as I work through more challenges and eventually develop my own designs.
+
+## Author
+- Frontend Mentor - [@jubileelin](https://www.frontendmentor.io/profile/jubileelin)
