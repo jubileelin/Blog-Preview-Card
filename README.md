@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL ()
+- Solution URL ( https://jubileelin.github.io/Blog-Preview-Card/)
 
 ### Built with
 
